@@ -13,14 +13,13 @@ Curious developer. Constant learner. I like experimenting with ideas and turning
 
 ### `> github metrics`
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-metrics.svg">
-    <img alt="GitHub metrics dashboard" src="github-metrics.svg" width="100%">
-  </picture>
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://metrics.lecoq.io/hardik-starlord?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Asia%2FKolkata&plugin_languages=1&plugin_languages.limit=8&plugin_isocalendar=1&plugin_isocalendar.duration=half-year&plugin_stars=1&plugin_stars.limit=4" alt="GitHub Metrics dashboard" width="100%" />
+  </a>
 </div>
 
 <div align="center">
-  <sub>Generated automatically every day with <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
+  <sub>Dashboard powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
   <br />
   <img src="https://komarev.com/ghpvc/?username=hardik-starlord&style=flat&color=312e81&label=VISITORS" alt="Profile visitors" />
   <p><sub>Made with curiosity and caffeine.</sub></p>
